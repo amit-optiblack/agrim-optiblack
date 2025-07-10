@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "agrim-tech",
+  "private_key_id": "1a6f18f54d8c2e0bc14ed9c108eff225c99157b6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCUx+Txs73uPMmf\nzBPTbJrLVW/YzgUT3Yf4L7ShLbFB9NChMgDccPjwpOPSmimi9LmR3iKiSWcMfupc\nFf85Nsvo0EGOQlY6wm2JIEm8doegZ5fXAKlwCGmYKtS5CqYq9MDvTOGPG725cHWA\nkKhfq+uHL6o3pIOFbs9byVaNqRJrr4CLOw+zTo+1KRc+vxzlHYRkfR6xw8mLBJKm\nR0XMXpwo+5Pg69bJLFynEvYPbfgAaDMuhHeMmSRDxGzDx+0sYg9yOfLN6JllgnAe\ncZutqrIWBShfXDWG4FtG72OXEOd4UlW5ZyHsLJH88DSZABHhLbkJbPBpP1qM/GJY\nQa4GcPO7AgMBAAECggEAL0eo00B94ogRwMTPJhh0xpojfX/W8D2tmGq8mZ3WHzIn\n3Jnx2RvTmFGmDoasJZtkn1y6n9z4sOliG5pn7Wwi95y6wHUHRwwDWBjZJdl69zgE\ncjBFKBOcTt2JlTYzoSH/b+x8H4i+zX/V72HJCAIvylmU27LdktkobzA337OzZWG3\nxUztp0wPTr6/80YcZRvn7M8MYyvq3mO31ztLSEavas1LNYXwSlWivn9olRcJ3BgK\n9qwRwYL9u3ZbQiMk7OhRwSnS52k5DIqdNHd4FoFWRc3P1/Iq/uyY+kqzsZAduZD/\n8I9gUZQXCaBYXcwMrRPGoORsEsPm1hlVUoO8Go0hDQKBgQDG89nfbWkjQurNyN6+\nUwLsdhl75Yubg12hjr8OU2FJpJn+T3S+iYtubjGMDFyqWsxw7CDykilTBLTZhDQH\n3RkUgKYHkRh8Q38tVfnb8E+wiHpnURh9ONxE7Xmq1LFK0gEXYIR0BIZHjC7vi4zN\nyyyt/gV6nxXVlDveWhDUU7TfHwKBgQC/cS4BTv1a29fsM1Uw2QmZbZ5CpySXinmi\n+5paeSsNbg5naGIoVE4DgRNt7VC7Fl7emiQi75925PJlt/9wHek/dz8dhwr/0Ch4\n0vHQeC1GuxCDoqqE19CMSvizG5qK4qyzy/2FPLxzrwcgHP0JDtztN0Lw36e1Sqn9\nzX00//gD5QKBgEfhRnBA2WGSBb9/uWpOF5pTOPXYg04WcjeymTiVy2qN+80z69wD\nWcr2KRSOStSJpZ+O0ICTajbCVozYBOxqZ2tO562IMK6EvGgmzfU2p7QCOyck15I2\nfu6wVerwmXWM1jQZ/QDluZYUAckuRBr+MxBR3Kzm2T6nJdI5/Caab5jFAoGAV61/\nM2w4zqcHIg90gdW09sbkh4RDVwA9qy5uR+dcl18DS8rbwbqyrBouitb4dWbOdkbE\nLBfwwaQjfACkBXY9gCqeBmj12ak9D/EUfLS9j7pW2uLiE8s/oTEo6+bFhbxA+mt/\npcjmSlkr+0IrhT2AY0g+6VCVX4tdhXbaVC6zKR0CgYA4GHI7Bd9tOOOFrWGVSmrn\nP0J0/eI107j2g+9GZYOUayOQIcWidpp6liQmboZPpKN17RNYSYJQBIpiYedo8qZ/\ngjSpklxl5+ifNSgOFkDdsE2i5CAkk+XKYmv2n3ZwIttjdScRj+buLFgbl6Sf06qr\nlYDEG7B3zCrzT/I4bqnzCg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "agrim-google-ads-service-acc@agrim-tech.iam.gserviceaccount.com",
+  "client_id": "100497080405600199235",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/agrim-google-ads-service-acc%40agrim-tech.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
